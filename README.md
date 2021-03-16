@@ -4,3 +4,9 @@
     + Models
     + Repositories
     + Services
+
+
+dump sql
+
+    \App\Helper\DbApplication::dumpQuery();
+    
